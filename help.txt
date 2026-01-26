@@ -1,0 +1,5 @@
+Clustername == Cluster0
+DB name == prabhatece21_db_user/ bengalscrm
+DB user == bengalscrm
+DB password == 5kXZ4nHmcjFFjout
+mongoURi== mongodb+srv://bengalscrm:5kXZ4nHmcjFFjout@cluster0.g4loqaa.mongodb.net/?appName=Cluster0
