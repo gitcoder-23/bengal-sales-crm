@@ -3,3 +3,8 @@ DB name == prabhatece21_db_user/ bengalscrm
 DB user == bengalscrm
 DB password == 5kXZ4nHmcjFFjout
 mongoURi== mongodb+srv://bengalscrm:5kXZ4nHmcjFFjout@cluster0.g4loqaa.mongodb.net/?appName=Cluster0
+
+
+/// github
+https://github.com/idurar/idurar-erp-crm
+https://github.com/gitcoder-23/bengal-sales-crm
