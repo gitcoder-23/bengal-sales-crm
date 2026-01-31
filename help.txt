@@ -8,3 +8,7 @@ mongoURi== mongodb+srv://bengalscrm:5kXZ4nHmcjFFjout@cluster0.g4loqaa.mongodb.ne
 /// github
 https://github.com/idurar/idurar-erp-crm
 https://github.com/gitcoder-23/bengal-sales-crm
+
+
+// youtube
+https://youtu.be/e7w9GHO2MKY?si=MFleaZ_uGz-s4HS7
